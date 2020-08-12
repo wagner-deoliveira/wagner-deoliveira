@@ -37,7 +37,7 @@
 <img align="left" alt="Wagner's Github Stats" src="https://github-readme-stats.wagner-deoliveira.vercel.app/api?username=wagner-deoliveira&show_icons=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/DataScientistBr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
