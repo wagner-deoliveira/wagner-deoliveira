@@ -1,4 +1,4 @@
-## Hi there, I'm Wagner :smirk:
+## Hi there, I'm Wagner :speech_balloon:
 
 ## I have a PhD in Physicis but now I'm working with code :smirk: 
 - :suspect: Currently working at PerkinElmer as Software QA Engineer
