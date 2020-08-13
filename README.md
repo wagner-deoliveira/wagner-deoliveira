@@ -36,10 +36,9 @@
 
 <br />
 
----
-[comment]: <>  <img align="left" alt="Wagner's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wagner-deoliveira&show_icons=true&hide_border=true" />
+<img align="left" alt="Wagner's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wagner-deoliveira&show_icons=true&hide_border=true" />
 
-[comment]: <> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagner-deoliveira)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagner-deoliveira)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/DataScientistBr
 [linkedin]: https://linkedin.com/in/wagner-o-rosa
