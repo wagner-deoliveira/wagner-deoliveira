@@ -1,6 +1,6 @@
 ## Hi there, I'm Wagner :speech_balloon:
 
-## I have a PhD in Physicis but now I'm working with code :smirk: 
+## PhD in Applied Physicis and my work is to code :smirk: 
 - :suspect: Currently working at PerkinElmer as Software QA Engineer
 - :rage1: Loves Python and R (Data Science) but I spend most of my time with Java
 - :hurtrealbad: In a love/hate relationship with C#
