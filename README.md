@@ -1,7 +1,7 @@
 ## Hi there, I'm Wagner :speech_balloon:
 
 ## PhD in Applied Physicis and my work is to code :smirk: 
-- :suspect: Currently working at PerkinElmer as Software QA Engineer
+- :suspect: Currently working at PerkinElmer as Sr. Software QA Engineer
 - :rage1: Loves Python and R (Data Science) but I spend most of my time with Java
 - :hurtrealbad: In a love/hate relationship with C#
 - :feelsgood: Getting better at React JS, React Native and Node.js
